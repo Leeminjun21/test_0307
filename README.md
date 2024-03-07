@@ -7,3 +7,6 @@
 ![이강인](htps://search.pstatic.net/common/?src=http%3A%2F%2Fimgnews.naver.net%2Fimage%2F216%2F2024%2F01%2F31%2F0000130439_001_20240131074801304.jpg&type=sc960_832)
 > 고마워
 ---
+| 열 제목 1 | 열 제목 2 |
+|-----------|-----------|
+| 내용 1    | 내용 2    |
